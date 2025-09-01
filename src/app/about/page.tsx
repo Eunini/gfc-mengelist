@@ -39,7 +39,7 @@ const AboutPage = () => {
               <div>
                 <h2 className="text-4xl font-bold text-primary mb-6">Who We Are</h2>
                 <p className="text-gray-700 mb-4">
-                  Let's Talk Period with GFC is a youth-led, non-profit organization. We believe in a world where every girl and woman can manage her menstruation in a hygienic way, wherever she is, in privacy, safety, and with dignity.
+                  Let&apos;s Talk Period with GFC is a youth-led, non-profit organization. We believe in a world where every girl and woman can manage her menstruation in a hygienic way, wherever she is, in privacy, safety, and with dignity.
                 </p>
                 <p className="text-gray-700">
                   Our approach is holistic, combining education, access to menstrual products, and advocacy to create sustainable change.

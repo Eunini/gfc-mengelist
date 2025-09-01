@@ -25,7 +25,7 @@ const AnimatedSection = ({ children }: { children: React.ReactNode }) => (
 const testimonials = [
   {
     quote:
-      "GFC's program changed my life. I can now attend school without worrying about my period.",
+      "GFC&apos;s program changed my life. I can now attend school without worrying about my period.",
     author: "Aisha, 15",
   },
   {
@@ -47,7 +47,7 @@ const ImpactPage = () => {
         <AnimatedSection>
           <h1 className="text-5xl font-bold text-primary">Our Impact</h1>
           <p className="text-lg text-gray-700 mt-4 max-w-2xl mx-auto">
-            We are proud of the positive change we've brought to communities. Here's a look at our achievements.
+            We are proud of the positive change we&apos;ve brought to communities. Here&apos;s a look at our achievements.
           </p>
         </AnimatedSection>
       </header>
@@ -86,7 +86,7 @@ const ImpactPage = () => {
                   <CarouselItem key={index}>
                     <div className="p-4 text-center">
                       <p className="text-xl italic text-gray-700">
-                        "{testimonial.quote}"
+                        &quot;{testimonial.quote}&quot;
                       </p>
                       <p className="mt-4 font-semibold text-accent">
                         - {testimonial.author}

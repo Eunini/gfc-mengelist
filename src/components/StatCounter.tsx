@@ -19,7 +19,7 @@ const StatCounter = ({ value, title }: { value: number; title: string }) => {
     springValue.on("change", (latest) => {
       if (ref.current) {
         ref.current.textContent = Intl.NumberFormat("en-US").format(
-          latest.toFixed(0)
+          Math.round(latest)
         );
       }
     });

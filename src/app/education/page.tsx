@@ -40,7 +40,7 @@ const faqData = [
 
 const blogPosts = [
   {
-    title: "Breaking the Silence: Let's Talk About Periods",
+    title: "Breaking the Silence: Let&apos;s Talk About Periods",
     description: "A deep dive into the importance of open conversations about menstruation.",
     link: "#",
     linkText: "Read More",

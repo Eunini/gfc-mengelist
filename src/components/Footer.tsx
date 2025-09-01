@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-lg font-semibold text-primary mb-4">
-              Let's Talk Period with GFC
+              Let&apos;s Talk Period with GFC
             </h3>
             <p className="text-sm">
               Empowering girls and women through menstrual health education and
@@ -99,7 +99,7 @@ const Footer = () => {
         </div>
         <div className="mt-8 border-t border-gray-200 pt-6 pb-8 text-center text-sm">
           <p>
-            &copy; {new Date().getFullYear()} Let's Talk Period with GFC. All
+            &copy; {new Date().getFullYear()} Let&apos;s Talk Period with GFC. All
             Rights Reserved.
           </p>
         </div>
