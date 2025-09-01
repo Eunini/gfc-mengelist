@@ -55,6 +55,11 @@ const DonatePage = () => {
                     <Label htmlFor="monthly">Monthly</Label>
                   </div>
                 </RadioGroup>
+                <div className="text-center mb-2">
+                  <span className="text-sm text-gray-600">
+                    Selected: {donationType === "one-time" ? "One-time donation" : "Monthly donation"}
+                  </span>
+                </div>
                 <div className="text-center mb-6">
                   <p className="text-4xl font-bold text-accent">${amount}</p>
                 </div>
