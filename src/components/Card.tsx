@@ -13,6 +13,7 @@ interface CardProps {
   linkText: string;
 }
 
+
 const Card = ({ title, description, link, linkText }: CardProps) => {
   return (
     <motion.div

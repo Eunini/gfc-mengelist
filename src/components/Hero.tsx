@@ -40,7 +40,7 @@ const Hero = () => {
           <Link href="/get-involved" passHref>
             <Button
               size="lg"
-              className="bg-[#e53939] text-white hover:bg-[#c72f2f] rounded-full px-10 py-4 text-lg transition-transform hover:scale-105 w-full sm:w-auto"
+              className="bg-[#ac0a0a] text-white hover:bg-[#c72f2f] rounded-full px-10 py-4 text-lg transition-transform hover:scale-105 w-full sm:w-auto"
             >
               <Heart className="mr-2 h-5 w-5" />
               Get Involved

@@ -110,7 +110,7 @@ export default function HomePage() {
                     Lets Talk Period with GFC is a non-governmental organization dedicated to shattering the stigma surrounding menstruation and empowering women and girls to manage their periods with dignity.
                   </p>
                   <Link href="/about" passHref>
-                    <Button size="lg" className="bg-primary text-white hover:bg-primary/90 rounded-full px-10 py-4 text-lg transition-transform hover:scale-105">
+                    <Button size="lg" className="bg-[#ac0a0a] text-white hover:bg-primary/90 rounded-full px-10 py-4 text-lg transition-transform hover:scale-105">
                       Read Our Story
                     </Button>
                   </Link>
@@ -131,7 +131,7 @@ export default function HomePage() {
               </p>
               <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
                 <Link href="/get-involved" passHref>
-                  <Button size="lg" className="bg-accent text-white hover:bg-accent/90 rounded-full px-10 py-4 text-lg transition-transform hover:scale-105 w-full sm:w-auto">
+                  <Button size="lg" className="bg-[#ac0a0a] text-white hover:bg-accent/90 rounded-full px-10 py-4 text-lg transition-transform hover:scale-105 w-full sm:w-auto">
                     Join Us
                   </Button>
                 </Link>
