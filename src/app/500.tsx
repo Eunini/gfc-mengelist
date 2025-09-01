@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Custom500() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-white">
@@ -7,12 +9,12 @@ export default function Custom500() {
         <br />
         Please try again later or contact support if the issue persists.
       </p>
-      <a
+      <Link
         href="/"
         className="px-6 py-2 bg-primary text-white rounded-full hover:bg-primary/80 transition"
       >
         Go Home
-      </a>
+      </Link>
     </div>
   );
 }
