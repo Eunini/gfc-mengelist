@@ -10,7 +10,7 @@ const siteUrl = "https://gfc-mengelist.vercel.app"; // Replace with your actual 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Let&aposs Talk Period with GFC",
+    default: "Let&apos;s Talk Period with GFC",
     template: "%s | GFC",
   },
   description: "Shattering stigma and empowering women and girls through menstrual health education and support.",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Let&aposs Talk Period with GFC",
+    title: "Let&apos;s Talk Period with GFC",
     description: "Shattering stigma and empowering women and girls through menstrual health education and support.",
     images: ["/logo.png"], // Replace with a proper Twitter card image URL
   },
