@@ -42,19 +42,19 @@ const blogPosts = [
   {
     title: "Breaking the Silence: Let's Talk About Periods",
     description: "A deep dive into the importance of open conversations about menstruation.",
-    link: "/blog/breaking-the-silence",
+    link: "#",
     linkText: "Read More",
   },
   {
     title: "The Environmental Impact of Menstrual Products",
     description: "Exploring the benefits of sustainable period products.",
-    link: "/blog/environmental-impact",
+    link: "#",
     linkText: "Read More",
   },
   {
     title: "A Guide to Your First Period",
     description: "Everything you need to know to be prepared and confident.",
-    link: "/blog/first-period-guide",
+    link: "#",
     linkText: "Read More",
   },
 ];
