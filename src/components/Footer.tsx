@@ -63,9 +63,14 @@ const Footer = () => {
               </Button>
             </form>
             <div className="mt-4">
-              <Button className="w-full bg-green-500 text-white hover:bg-green-600 rounded-full flex items-center justify-center gap-2">
+              <Link
+                href="https://chat.whatsapp.com/FzULScBOtfB4LJh85NEb8E?mode=ac_t"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full bg-green-500 text-white hover:bg-green-600 rounded-full flex items-center justify-center gap-2 px-4 py-2"
+              >
                 <FaWhatsapp /> Join our WhatsApp Community
-              </Button>
+              </Link>
             </div>
           </div>
           <div>
